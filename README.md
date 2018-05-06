@@ -17,7 +17,9 @@ LeetCode
 
 | Problem | Solutions | Code |
 | ------------- |:-------------:|:-----:|
-| col 3 is      | right-aligned | $1600 |
+|[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[C++](./33_Search_in_Rotated_Sorted_Array)|[C++](33_Search_in_Rotated_Sorted_Array/Solution.h)|
+|[34. Search for a Range](https://leetcode.com/problems/search-for-a-range/description/)|[C++](./34_Search_for_a_Range)|[C++](./34_Search_for_a_Range/Solution.h)|
+|[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[C++](./35_Search_Insert_Position)|[C++](./35_Search_Insert_Position/Solution.h)|
 
 ### Bit Manipulation
 
