@@ -21,6 +21,7 @@ LeetCode
 |[34. Search for a Range](https://leetcode.com/problems/search-for-a-range/description/)|[C++](./34_Search_for_a_Range)|[C++](./34_Search_for_a_Range/Solution.h)|
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[C++](./35_Search_Insert_Position)|[C++](./35_Search_Insert_Position/Solution.h)|
 |[50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[C++](./50_Pow(x,n))|[C++](./50_Pow(x,n)/Solution.h)|
+|[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[C++](./69_Sqrt(x))|[C++](./69_Sqrt(x)/Solution.h)|
 
 ### Bit Manipulation
 
