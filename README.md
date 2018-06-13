@@ -15,6 +15,9 @@ LeetCode
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [README](./80_Remove_Duplicates_from_Sorted_Array_II)  |[Python](./80_Remove_Duplicates_from_Sorted_Array_II/Solution.py) |
 | [283 Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Python](./283_Move_Zeroes) | [Python](./283_Move_Zeroes/Solution.py) | 
 
+### Other Array Problems
+| [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Python](./75_Sort_Colors) | [Python](./75_Sort_Colors/Solution.py) |
+
 ### Binary Search
 
 | Problem | Solutions | Code |
