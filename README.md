@@ -1,12 +1,4 @@
-LeetCode
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-### Two Pointers
+# Two Pointers
 
 | Problem | Solutions | Code |
 | ------------- |:-------------:|:-----:|
@@ -17,12 +9,16 @@ LeetCode
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [README](./125_Valid_Palindrome) | [C++](./125_Valid_Palindrome/Solution.h) \ [Python](./125_Valid_Palindrome/Solution.py)
 | [283 Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Python](./283_Move_Zeroes) | [Python](./283_Move_Zeroes/Solution.py) | 
 
-### Other Array Problems
+-------------------------------
+
+# Other Array Problems
 | Problem | Solutions | Code |
 | ------------- |:-------------:|:-----:|
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [README](./75_Sort_Colors) | [Python](./75_Sort_Colors/Solution.py) |
 
-### Binary Search
+--------------------------------
+
+# Binary Search
 
 | Problem | Solutions | Code |
 | ------------- |:-------------:|:-----:|
@@ -32,14 +28,17 @@ LeetCode
 |[50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[C++](./50_Pow(x,n))|[C++](./50_Pow(x,n)/Solution.h)|
 |[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[C++](./69_Sqrt(x))|[C++](./69_Sqrt(x)/Solution.h)|
 
-### Bit Manipulation
+-----------------------------------------
+
+# Bit Manipulation
 
 | Problem | Solutions | Code |
 | ------------- |:-------------:|:-----:|
 | [29 Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [C++](./29_Divide_Two_Integers) | [C++](./29_Divide_Two_Integers/Solution.h) |
 
+------------------------------------------
 
-### Dynamic Programming
+# Dynamic Programming
 
 | Problem        | Solutions           | Code  |
 | ------------- |:-------------:|:-----:|
