@@ -18,7 +18,9 @@ LeetCode
 | [283 Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Python](./283_Move_Zeroes) | [Python](./283_Move_Zeroes/Solution.py) | 
 
 ### Other Array Problems
-| [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Python](./75_Sort_Colors) | [Python](./75_Sort_Colors/Solution.py) |
+| Problem | Solutions | Code |
+| ------------- |:-------------:|:-----:|
+| [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [README](./75_Sort_Colors) | [Python](./75_Sort_Colors/Solution.py) |
 
 ### Binary Search
 
