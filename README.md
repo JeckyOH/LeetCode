@@ -9,6 +9,8 @@
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [README](./125_Valid_Palindrome) | [C++](./125_Valid_Palindrome/Solution.h) \ [Python](./125_Valid_Palindrome/Solution.py)
 | [283 Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Python](./283_Move_Zeroes) | [Python](./283_Move_Zeroes/Solution.py) |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [README](./344_Reverse_String) | [C++](./344_Reverse_String/Solution.h) \ [Python](./344_Reverse_String/Solution.py) |
+| [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [README](./345_Reverse_vowels_of_a_String) | [C++](./345_Reverse_vowels_of_a_String/Solution.h) \ [Python](./345_Reverse_vowels_of_a_String/Solution.py) |
+
 
 -------------------------------
 
