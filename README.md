@@ -14,6 +14,7 @@ LeetCode
 | [27 Remove Elements](https://leetcode.com/problems/remove-element/description/) | [C++](./27_Remove_Element) | [C++](./27_Remove_Element/Solution.h) |
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [README](./80_Remove_Duplicates_from_Sorted_Array_II)  |[Python](./80_Remove_Duplicates_from_Sorted_Array_II/Solution.py) |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [README](./88_Merge_Sorted_Array) | [C++](./88_Merge_Sorted_Array/Solution.h) \ [Python](./88_Merge_Sorted_Array/Solution.py) |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [README](./125_Valid_Palindrome) | [C++](./125_Valid_Palindrome/Solution.h) \ [Python](./125_Valid_Palindrome/Solution.py)
 | [283 Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Python](./283_Move_Zeroes) | [Python](./283_Move_Zeroes/Solution.py) | 
 
 ### Other Array Problems
