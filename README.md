@@ -14,6 +14,7 @@
 
 | Problem | Solutions | Code |
 | ------------- |:-------------:|:-----:|
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [README](./3_Longest_Substring_Without_Repeating_Characters) | [C++](./3_Longest_Substring_Without_Repeating_Characters/Solution.h) \ [Python](./3_Longest_Substring_Without_Repeating_Characters/Solution.py) |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | [README](./209_Mininum_Size_Subarray_Sum) | [C++](./209_Mininum_Size_Subarray_Sum/Solution.h) \ [Python](./209_Mininum_Size_Subarray_Sum/Solution.py) |
 
 ### Colliding Pointers
